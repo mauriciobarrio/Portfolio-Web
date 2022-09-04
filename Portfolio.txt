@@ -1,0 +1,3 @@
+BootstrapMade template is used.
+The information respective to user (personal portfolio in this case) should be structured in json o databases files (still to define).
+My academic formation and work experience is out programming ambit. The Curriculum Vitae file will serve of guide for take the data and use in the web portfolio create.

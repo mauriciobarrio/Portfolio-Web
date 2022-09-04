@@ -1,0 +1,1 @@
+Objective: Generate a automatic method for screen caption in PCs with key: imp pnt with adjustable window and use Google Lens for copy and translate text of quick way.
