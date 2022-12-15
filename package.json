@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.html",
   "dependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "resume-cli": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {

@@ -1,0 +1,310 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mauricio Barrio",
+    "label": "Estudiante en Universidad Tecnológica Nacional",
+    "image": "",
+    "email": "mauriciohbarrio@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/mauricio-barrio/",
+    "summary": "Jefe de Producción y Mantenimiento, con más de 15 años dirigiendo equipos de trabajo desempeñándome \nen las áreas de Ingeniería, Compras, Administración de ventas, Postventa, Control de calidad, Depósito, \nLogística, Seguridad e Higiene, Recursos Humanos, Gestión de calidad, etc, en distintos rubros. Experiencia en investigación técnica, gestión de procesos y resolución de problemas. \nCursada universitaria en Ingeniería Aeronáutica finalizada.",
+    "location": {
+      "countryCode": "ES",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mauricio-barrio",
+        "url": "https://www.linkedin.com/in/mauricio-barrio/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "VSA Market",
+      "position": "Jefe de depósito",
+      "startDate": "2020-05-31",
+      "endDate": "2022-03-30",
+      "highlights": [],
+      "summary": "Planificación y coordinación de negocio. Capacitación de personal. Ingeniería de procesos. Coordinación de \r\nlogística. Análisis de ventas y marketing. Gestión de compras.",
+      "url": "https://vsa-market.online/tienda/",
+      "location": "El Palomar, Buenos Aires Province, Argentina"
+    },
+    {
+      "name": "Grifería Ultragrif SA",
+      "position": "Jefe de producción",
+      "startDate": "2020-01-31",
+      "highlights": [],
+      "summary": "Programación y control de producción. Supervisión general. Gestión de Compras. Ingeniería de Procesos. \r\nCapacitación de personal. Desarrollo e ingeniería de producto. Asesoría técnica a clientes y vendedores.",
+      "url": "https://ultragrif.com.ar/",
+      "location": "Villa Lynch, Buenos Aires Province, Argentina"
+    },
+    {
+      "name": "GRI GAL SA",
+      "position": "Jefe de programación y planificación",
+      "startDate": "2020-07-31",
+      "endDate": "2021-01-31",
+      "highlights": [],
+      "summary": "Planificación estratégica de producción. Programación y control de producción. Gestión y activación de \r\nCompras. Desarrollo de sistema informático para gestión de producción.",
+      "url": "https://www.andez.com.ar/",
+      "location": "Munro, Buenos Aires"
+    },
+    {
+      "name": "GRI GAL SA",
+      "position": "Jefe de producción",
+      "startDate": "2016-01-31",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Planificación estratégica de producción. Programación y control de producción. Supervisión general. \r\nGestión y activación de Compras. Ingeniería de Procesos. Capacitación de personal. Desarrollo de sistema \r\ninformático para gestión de producción. Aprobación de ingeniería de producto. Confección de \r\nprocedimientos de procesos y gestión de calidad. Responsable de Seguridad e Higiene. Organización de\r\nRecursos Humanos. Confección de lay-out de planta. Responsable de mantenimiento de planta e \r\ninfraestructura. Seguimiento de cuentas y atención al cliente. Encargado de servicio de post-venta.\r\nResponsable de logística y distribución. Confección y coordinación de instalaciones de stands de \r\npresentación de productos. Coordinación y supervisión de administración de ventas.",
+      "url": "https://www.andez.com.ar/",
+      "location": "Munro, Buenos Aires"
+    },
+    {
+      "name": "R NETO SA",
+      "position": "Jefe de programación",
+      "startDate": "2006-01-31",
+      "endDate": "2016-01-31",
+      "highlights": [],
+      "summary": "Programación y control de la producción. Responsable de mantenimiento de planta. Ingeniería de \r\nproducto. Ingeniería de proceso. Capacitación de personal. Desarrollo de nuevos productos. Auditorías \r\ninternas de Control de calidad. Control de stocks e inventarios. Compras productivas. Puesta en marcha de \r\nplanta y líneas de producción. Puesta en marcha de máquinas importadas. Modificación y\r\nautomatización de maquinaria. Encargado de depósito y logística (1 año). Supervisor de fábrica (5 años).",
+      "url": "https://wega.com.ar/",
+      "location": "Lomas Del Mirador, Buenos Aires"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Nacional",
+      "area": "Ingeniería aeroespacial, aeronáutica y astronáutica",
+      "studyType": "Grado en Ingeniería",
+      "startDate": "2007-12-31",
+      "endDate": "2019-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "INAC CIATA",
+      "area": "Ingeniería aeroespacial, aeronáutica y astronáutica",
+      "studyType": "Técnico en Aviónica",
+      "startDate": "2004-03-31",
+      "endDate": "2004-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "INAC CIATA",
+      "area": "Ingeniería aeroespacial, aeronáutica y astronáutica",
+      "studyType": "Mecánico en Aviónica",
+      "startDate": "2001-03-31",
+      "endDate": "2003-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Calidad del servicio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mejora continua",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación de negocios",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Control de calidad",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ingeniería",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Espíritu empresarial",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Capacidad de análisis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Aseguramiento de la calidad",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación de la producción",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión de la calidad",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administración logística",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Manufactura",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Diseño asistido por ordenador (CAD)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión de la producción",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Inspección",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Diseño",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SolidWorks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Auditoría",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PLC Siemens",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lenguaje ladder para PLC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación de procesos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación estratégica",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Controlador lógico programable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Planificación de proyectos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Controlador lógico programable (PLC) de Allen Bradley",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hojas de estilos en cascada (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Project",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Análisis de datos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programación PLC",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "es",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Diseño de páginas web",
+      "startDate": "2022-01-31",
+      "summary": null,
+      "endDate": "2022-01-31"
+    },
+    {
+      "name": "Automatización de Maquinaria",
+      "startDate": "2005-05-31",
+      "summary": "Programación de PLC para maquinaria",
+      "endDate": "2006-05-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
