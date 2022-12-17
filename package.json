@@ -1,24 +1,5 @@
 {
-  "name": "portfolio-web",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
   "dependencies": {
-    "http-server": "^14.1.1",
-    "resume-cli": "^3.0.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "start": "http-server -p 8436"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mauriciobarrio/Portfolio-Web.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mauriciobarrio/Portfolio-Web/issues"
-  },
-  "homepage": "https://github.com/mauriciobarrio/Portfolio-Web#readme"
+    "bootstrap": "^5.2.3"
+  }
 }
